@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-04-27T13:39:18Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB"
+        },
+        "Owner": "Rohan Kalbag <20d170033@iitb.ac.in>",
+        "Size": {
+            "X": 112.0194,
+            "Y": 70.734247
+        }
+    }
+}

@@ -1,0 +1,2 @@
+idf_component_register(SRCS "drivers/buzzer_driver.c" "drivers/dht20_driver.c" "drivers/acd10_driver.c" "drivers/i2c_global.c" "drivers/lcd_driver.c" "drivers/raw_lcd_driver.c" "drivers/acd10_driver.c" "drivers/i2c_conn.c" "server_conn.c" "main.c"
+                    INCLUDE_DIRS ".")
